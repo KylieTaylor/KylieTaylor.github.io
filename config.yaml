@@ -23,9 +23,6 @@ languages:
   en:
     languageName: English
     weight: 1
-  bn:
-    languageName: Espanol
-    weight: 3
 
 # Force a locale to be used, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: bn
