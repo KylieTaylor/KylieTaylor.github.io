@@ -62,6 +62,7 @@ params:
 
   # GitHub repo of your site
   gitRepo: https://github.com/KylieTaylor/KylieTaylor.github.io
+
   # Default branch of your Git repo
   gitBranch: main
 
