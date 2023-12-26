@@ -1,7 +1,7 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://KylieTaylor.github.io
 
 languageCode: en-us
-title: "John's Blog"
+title: "Kylie Taylor"
 
 # Use Hugo modules to add theme
 module:
@@ -24,10 +24,10 @@ languages:
     languageName: English
     weight: 1
   bn:
-    languageName: বাংলা
+    languageName: Espanol
     weight: 3
 
-# Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
+# Force a locale to be used, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: bn
 
 # Allow raw html in markdown file
@@ -64,7 +64,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/KylieTaylor/KylieTaylor.github.io
   # Default branch of your Git repo
   gitBranch: main
 
@@ -89,10 +89,10 @@ params:
       # Share post on different social media
       shareButtons:
         facebook: true
-        twitter: true
+        twitter: false
         linkedin: true
-        reddit: true
-        whatsapp: true
+        reddit: false
+        whatsapp: false
         email: true
         # tumblr: true
         # pocket: true
@@ -108,7 +108,7 @@ params:
       enable: false
       services:
         disqus:
-          shortName: toha-example-site
+          shortName: kylie-taylor-site
         # valine:
         #   appId: HTV6askWxVo3vOxlqjjaq2hd-MsYXbMMI
         #   appKey: pVrT3C85KGIuk27t07eh6bUC
@@ -143,7 +143,7 @@ params:
       services:
         # Google Analytics
         google:
-          id: G-H4LBG7NDFZ
+          id: G-HDS3K7RRX8
         # # CounterDev
         # counterDev:
         #   id: <your counterdev id>
