@@ -11,36 +11,39 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Linux Foundation System Administrator
-  timeline: "March 2018 - March 2019"
+- name: Patent Co-Author, DEIMOS
+  timeline: "Jan 2022 - Present"
   organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
-  certificateURL: "https://example.com"
+    name: Mars Petcare
+    url: https://www.mars.com
+  courseOverview: "Co-authored a patent for a time-series forecasting Python package, called DEIMOS. The DEIMOS package leverages deep learning models and intelligent data processing to train and log forecasting models at scale using Apache Spark, ML Flow and Pytorch."
+  #  certificateURL: "https://example.com"
 
-- name: Machine Learning
-  timeline: "Jun 2020 - Jan 2021"
+- name: Speaker, Data + AI Summit
+  timeline: "June 2023"
   organization:
-    name: Coursera
-    url: https://www.coursera.org
-  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://example.com"
+    name: Data Bricks Data + AI Summit
+    url: https://www.databricks.com/dataaisummit/
+  courseOverview: "In this session, we speak about a pacakge we created called DEIMOS (deep experimental integrated multivariate optimized series). 
+  DEIMOS is built to handle many of the critical problems in time-series modeling automatically and at scale. 
+  This package is designed to be simple and straightforward to use with easily interpretable results to both technical and non-technical audiences.
+   Moreover, we’ve designed it to be flexible so that it can be easily applied to many use cases."
+  certificateURL: "https://www.youtube.com/watch?v=dxzbsG7LeoY&t=150s"
 
-- name: Grokking the System Design Interview
+- name: Recipient of the 2021 R&D “Cultivating Tomorrow"
   timeline: "Jan 2018 - Sept 2018"
   organization:
-    name: educative
-    url: https://www.educative.io
-  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
-  certificateURL: "https://example.com"
+    name: Mars Petcare
+    url: https://www.mars.com
+  courseOverview: Award for deploying the first ML model using manufacturing data & establishing a cloud computing workspace for the global R&D team.
+#  certificateURL: "https://example.com"
 
-- name: Mastering Multithreading Programming with Go (Golang)
-  timeline: "Nov 2017 - Mar 2018"
+- name: Podcast Guest, Talk Tech to Me Podcast
+  timeline: "May 2022"
   organization:
-    name: Udemy
-    url: https://www.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
-  certificateURL: "https://example.com"
+    name: Talk Tech to Me Podcast
+    url: https://open.spotify.com/show/3VDeCLqRMOypuXvXofLC78?si=108fff5f88ad4db5
+  courseOverview: From being an Economics major who just really has a high interest in math, to a full-on data scientist, Kylie Taylor, MARS Data Scientist, is really making her voice heard and building a name for herself. In this episode of Talk Tech To Me, Craig Cartwright welcomes Kylie, as she shares her journey as a woman in tech and how her interest in math has led her to her new career in data science.
+certificateURL: "https://www.youtube.com/watch?v=XxSWV7UmcQI"
  
 
