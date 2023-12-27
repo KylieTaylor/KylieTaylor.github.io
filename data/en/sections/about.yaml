@@ -19,10 +19,10 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate data scientist with 4 years of working experience. 
+summary: 'I am a passionate Data Scientist with over four years of working experience. 
 I build data science products using [Python](https://www.python.org) and [Spark](https://spark.apache.org). 
-My work helps pets and pet parents live better lives through the use of machine learning and advanced analytics. 
-Outside of making the world better for pets, I spend time with my own four-legged companions: two horses and a dog.'
+My work helps pets and pet parents live better lives through the use of statistics, machine learning, and advanced analytics. 
+Outside of making the world better for pets, I love to spend time with my own four-legged companions.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -35,13 +35,13 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://www.github.com/KylieTaylor"
 
-#- name: Stackoverflow
-#  icon: "fab fa-stack-overflow"
-#  url: "#"
-
 - name: LinkedIn
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/kyliewtaylor/"
+
+- name: Credly
+  icon: "fab fa-award"
+  url: "https://www.credly.com/users/kylie-taylor.4fbe4a8e/badges"
 
 #- name: Twitter
 #  icon: "fab fa-twitter"
@@ -67,19 +67,19 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
-  name: Certified Kubernetes Security Specialist
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+  name: Advanced Data Science Specialization
+  url: "https://www.credly.com/badges/60d2c291-1038-498e-bc05-872b7f30252e/public_url"
+  badge: "https://images.credly.com/size/680x680/images/0a8e2321-c9a1-45b4-a61d-cae2636e9ea3/Adv_Data_Science_Specialization_-_Coursera.png"
 
 - type: certification
-  name: Istio and IBM Cloud Kubernetes Service
-  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
-  badge: "https://images.credly.com/size/680x680/images/8d34d489-84bf-4861-a4a0-9e9d68318c5c/Beyond_basics_of_Istio_on_Cloud_v2.png"
+  name: Advanced Machine Learning and Signal Processing
+  url: "https://www.credly.com/earner/earned/badge/5f82a22e-facd-402e-8ccd-554c44b33cce"
+  badge: "https://images.credly.com/size/680x680/images/007afae6-2754-4a7c-9c44-e95c64c93656/IBM_Watson_IoT-_Advanced_Machine_Learning_and_Signal_Processing.png"
 
 - type: certification
-  name: Artificial Intelligence and Machine Learning
-  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
-  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+  name: Applied AI with DeepLearning
+  url: "https://www.credly.com/earner/earned/badge/fb7a3b72-c7dd-4cec-80cb-930886b09cb7"
+  badge: "https://images.credly.com/size/680x680/images/c2cc3091-c033-40c0-9cfc-2d5d78a3fa30/Applied_AI_with_Deep_Learning.png"
 
 - type: soft-skill-indicator
   name: Leadership
