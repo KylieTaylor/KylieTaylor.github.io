@@ -39,9 +39,9 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/kyliewtaylor/"
 
-- name: Credly
-  icon: "fab fa-award"
-  url: "https://www.credly.com/users/kylie-taylor.4fbe4a8e/badges"
+#- name: Credly
+#  icon: "fab fa-award"
+#  url: "https://www.credly.com/users/kylie-taylor.4fbe4a8e/badges"
 
 #- name: Twitter
 #  icon: "fab fa-twitter"
@@ -67,6 +67,21 @@ resourceLinks:
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
 - type: certification
+  name: CSU Chico
+  url: "https://www.csuchico.edu"
+  badge: "https://www.csuchico.edu/style-guide/visual/_images/seal.jpg"
+
+- type: certification
+  name: UT Austin
+  url:  "https://www.utexas.edu"
+  badge: "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/University_of_Texas_at_Austin_seal.svg/454px-University_of_Texas_at_Austin_seal.svg.png?20170907015832"
+
+- type: certification
+  name: Mars Petcare
+  url: "https://ind.mars.com"
+  badge: "https://bel.mars.com/sites/g/files/jydpyr541/files/styles/media_resource/public/2019-04/media_resources_-_mars_petcare_lockup_rgb.png?itok=JeR_CBex"
+
+- type: certification
   name: Advanced Data Science Specialization
   url: "https://www.credly.com/badges/60d2c291-1038-498e-bc05-872b7f30252e/public_url"
   badge: "https://images.credly.com/size/680x680/images/0a8e2321-c9a1-45b4-a61d-cae2636e9ea3/Adv_Data_Science_Specialization_-_Coursera.png"
@@ -81,20 +96,21 @@ badges:
   url: "https://www.credly.com/earner/earned/badge/fb7a3b72-c7dd-4cec-80cb-930886b09cb7"
   badge: "https://images.credly.com/size/680x680/images/c2cc3091-c033-40c0-9cfc-2d5d78a3fa30/Applied_AI_with_Deep_Learning.png"
 
-- type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
-  color: blue
-
-- type: soft-skill-indicator
-  name: Team Work
-  percentage: 90
-  color: yellow
-
-- type: soft-skill-indicator
-  name: Hard Working
-  percentage: 85
-  color: orange
+#
+#- type: soft-skill-indicator
+#  name: Leadership
+#  percentage: 85
+#  color: black
+#
+#- type: soft-skill-indicator
+#  name: Public Speaking
+#  percentage: 85
+#  color: blue
+#
+#- type: soft-skill-indicator
+#  name: Charisma
+#  percentage: 85
+#  color: orange
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
