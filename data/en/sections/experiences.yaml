@@ -11,8 +11,8 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Mars Petcare.
-    url: "https://www.example.com"
+    name: Mars Petcare
+    url: "https://www.mars.com"
     location: Nashville, TN
     # company overview
     overview: Mars Inc is the third largest privately owned company in the world, specializing in CPG products for both humans and pets. Mars Petcare owns brands such as Pedigree, Iams, Royal Canin, Banfield, VCA, Antech and Wisdom Panel to name a few.
