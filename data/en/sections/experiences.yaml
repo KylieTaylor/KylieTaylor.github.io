@@ -8,20 +8,15 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true 
 
-# Your experiences
 experiences:
 - company:
     name: Mars Petcare
     url: "https://www.mars.com"
     location: Nashville, TN
-    # company overview
     overview: Mars Inc is the third largest privately owned company in the world, specializing in CPG products for both humans and pets. Mars Petcare owns brands such as Pedigree, Iams, Royal Canin, Banfield, VCA, Antech and Wisdom Panel to name a few.
   positions:
   - designation: Data Scientist
     start: Dec 2021
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
     responsibilities:
     - Partners across functions within Mars Petcare executive teams and industry leading data science professionals to deliver high impact data products at scale, generating over millions (and counting) in revenue and savings.
     - Major projects I've contributed to include
