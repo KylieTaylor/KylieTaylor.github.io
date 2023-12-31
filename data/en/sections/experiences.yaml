@@ -23,25 +23,35 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Partners across functions within Mars Petcare executive teams and industry leading data science professionals to deliver high impact data products at scale, generating over $14 million (and counting) in revenue and savings in 2022 and 2023.
-    -
-    - Infectious Disease Surveillance using AI
-      - Leverages Mars Veterinary Health data to detect outbreaks of infectious diseases in near real time for over 7 million
-      domestic pets in the US through the use of H3 Geospatial Indexing, Spark, and Bayesian hierarchical models.
-      - Partnered with the CEO of Adopt-a-pet and executives at Kinship to launch the disease surveillance feature on a new app
-      called ‘The Kin’, which drove an increase in new subscribers by 15% and return to app by 12% in Q3 2023.
-    - Deep Learning Optimized Manufacturing of Royal Canin Products
-      - Developed a forecasting solution, called DEIMOS, to forecast the demand of every Royal Canin product, by leveraging a combination of Spark ML, Bayesian Structural Time Series, Torch deep-learning models, and Monte Carlo simulations(Python) to achieve forecast performance within 7% of the true ordered amounts.
-      - Optimized manufacturing through production schedules tailored to minimize inventory surplus and back fill shortages, resulting in $9 million in savings in the first 3 months of deployment of DEIMOS.
-      - Consults with third party vendors and Mars Petcare executives on ML solution architectures and implementation best practices, resulting in the success of 2 cloud-based forecasting systems integrated in other business divisions.
+    - Partners across functions within Mars Petcare executive teams and industry leading data science professionals to deliver high impact data products at scale, generating over millions (and counting) in revenue and savings.
+    - Major projects I've contributed to include
+    - Pet Population Modeling with Geographic Spatial Regressions using Python and Spark.
+    - Infectious Disease Surveillance using Python, Spark, and H3 Geospatial Indexing.
+#      - Leverages Mars Veterinary Health data to detect outbreaks of infectious diseases in near real time for over 7 million
+#      domestic pets in the US through the use of H3 Geospatial Indexing, Spark, and Bayesian hierarchical models.
+#      - Partnered with the CEO of Adopt-a-pet and executives at Kinship to launch the disease surveillance feature on a new app
+#      called ‘The Kin’, which drove an increase in new subscribers by 15% and return to app by 12% in Q3 2023.
+    - Deep Learning Optimized Manufacturing of Royal Canin Products using Python, Pytorch and ML Flow.
+#      - Developed a forecasting solution, called DEIMOS, to forecast the demand of every Royal Canin product, by leveraging a combination of Spark ML, Bayesian Structural Time Series, Torch deep-learning models, and Monte Carlo simulations(Python) to achieve forecast performance within 7% of the true ordered amounts.
+#      - Optimized manufacturing through production schedules tailored to minimize inventory surplus and back fill shortages, resulting in $9 million in savings in the first 3 months of deployment of DEIMOS.
+#      - Consults with third party vendors and Mars Petcare executives on ML solution architectures and implementation best practices, resulting in the success of 2 cloud-based forecasting systems integrated in other business divisions.
+    - Strategic Pricing Using Recommendation Systems using TensorFlow and ML Flow.
+#      - Partners with the Director of Retail Analytics and the Strategic Revenue Management team to continuously deliver strategic product pricing, which indicated over $3 million in increased revenue from over 300 Mars products.
+#      - Deployed a Wide & Deep Recommender Model using Tensor Flow that ranks products by probability of purchase in pet owner’s basket with a Map@K of 82% and accuracy of 94% ( Python).
+#      - Led a team of 3 data scientists and 2 data engineers that overcame blockers of adoption and managed a short,6 month development timeline to launch the first ever AI based shopper-level insights at Mars.
 
   - designation: Senior Statistician
     start: Apr 2020
     end: Dec 2021
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - In-house statistical consultant that played a pivotal role on over 13 global projects. I ideated and launched a product that successfully rounded internal funding, and continues to transform manufacturing at Mars through the use of AI and advanced statistical analyses.
+    - Major projects I've contributed to include
+    - Manufacturing Machine Calibration using Machine Learning using Python, SciKit Learn and Spark.
+    - Designed experiments and ran statistical analyses using R.
+    - Created and co-presented a 13 part course to train engineers, scientists, and global leaders in statistics.
+#      - Deployed an ensemble of machine learning models using Python and Spark to predict when manufacturing machines are in a calibrated state, achieving 98% test set precision and increasing engineering FTE efficiency by 12% per week.
+#      - Designed 35 experiments & clinical trials, conducted accompanying statistical analyses using R, presented findings to senior leaders, and provided consultancy on methods to improve R&D protocols.
+#      - Created and presented a 13-part course to train over 215 engineers, scientists, & global leaders in statistics.
 
 - company:
     name: California State University, Chico.
